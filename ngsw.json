@@ -1,14 +1,14 @@
 {
   "configVersion": 1,
-  "index": "https://dhavalpowar.github.io/invoicer/index.html",
+  "index": "https://dhavalpowar.github.io/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://dhavalpowar.github.io/invoicer/favicon.ico",
-        "https://dhavalpowar.github.io/invoicer/index.html"
+        "https://dhavalpowar.github.io/favicon.ico",
+        "https://dhavalpowar.github.io/index.html"
       ],
       "patterns": []
     },
@@ -17,30 +17,30 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-128x128.png",
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-144x144.png",
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-152x152.png",
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-192x192.png",
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-384x384.png",
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-512x512.png",
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-72x72.png",
-        "https://dhavalpowar.github.io/invoicer/assets/icons/icon-96x96.png"
+        "https://dhavalpowar.github.io/assets/icons/icon-128x128.png",
+        "https://dhavalpowar.github.io/assets/icons/icon-144x144.png",
+        "https://dhavalpowar.github.io/assets/icons/icon-152x152.png",
+        "https://dhavalpowar.github.io/assets/icons/icon-192x192.png",
+        "https://dhavalpowar.github.io/assets/icons/icon-384x384.png",
+        "https://dhavalpowar.github.io/assets/icons/icon-512x512.png",
+        "https://dhavalpowar.github.io/assets/icons/icon-72x72.png",
+        "https://dhavalpowar.github.io/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-128x128.png": "24229bef07ef5ac8690a3ca02c3b6273d368f9ef",
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-144x144.png": "b189e00ff380a4a45a031ba46fa2bfe62c8d9ebe",
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-152x152.png": "192e80120c03a9db9f5d1d9e2d15d5f263d039cf",
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-192x192.png": "ec3b7cb0b52a261ba713a382b9816ca35174ed0c",
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-384x384.png": "ba7b406d4ca512963583688ca77281e0d779cdf0",
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-512x512.png": "67470b1061ff8b043cecb10927988b662fd812c3",
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-72x72.png": "5d50eedfb975a7b3a3b170148f7776697f45ab6a",
-    "https://dhavalpowar.github.io/invoicer/assets/icons/icon-96x96.png": "ae0c3f3c8f2ef6f587cf543317b24f173a52c3cf",
-    "https://dhavalpowar.github.io/invoicer/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://dhavalpowar.github.io/invoicer/index.html": "48fba0d6e80ad98f236dbe2eeaa6f3014183d0ca"
+    "https://dhavalpowar.github.io/assets/icons/icon-128x128.png": "24229bef07ef5ac8690a3ca02c3b6273d368f9ef",
+    "https://dhavalpowar.github.io/assets/icons/icon-144x144.png": "b189e00ff380a4a45a031ba46fa2bfe62c8d9ebe",
+    "https://dhavalpowar.github.io/assets/icons/icon-152x152.png": "192e80120c03a9db9f5d1d9e2d15d5f263d039cf",
+    "https://dhavalpowar.github.io/assets/icons/icon-192x192.png": "ec3b7cb0b52a261ba713a382b9816ca35174ed0c",
+    "https://dhavalpowar.github.io/assets/icons/icon-384x384.png": "ba7b406d4ca512963583688ca77281e0d779cdf0",
+    "https://dhavalpowar.github.io/assets/icons/icon-512x512.png": "67470b1061ff8b043cecb10927988b662fd812c3",
+    "https://dhavalpowar.github.io/assets/icons/icon-72x72.png": "5d50eedfb975a7b3a3b170148f7776697f45ab6a",
+    "https://dhavalpowar.github.io/assets/icons/icon-96x96.png": "ae0c3f3c8f2ef6f587cf543317b24f173a52c3cf",
+    "https://dhavalpowar.github.io/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://dhavalpowar.github.io/index.html": "99737ac83b6d2c24f6a3d232815111ec2598e559"
   },
   "navigationUrls": [
     {
