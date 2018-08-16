@@ -3,11 +3,32 @@
 <head>
   <meta charset="utf-8">
   <title>Invoicer</title>
-  <base href="https://dhavalpowar.github.io/">
+  <base href="https://dhavalpowar.github.io/">  <!-- iOS PWA specific meta tags -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Invoicer">
+  <link href="assets/splash_screens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="assets/splash_screens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="assets/splash_screens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="assets/splash_screens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="assets/splash_screens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="assets/splash_screens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="assets/splash_screens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-120x120.png" sizes="120x120" >
+  <link rel="apple-touch-icon" href="assets/icons/icon-152x152.png" sizes="152x152" >
+  <link rel="apple-touch-icon" href="assets/icons/icon-167x167.png" sizes="167x167" >
+  <link rel="apple-touch-icon" href="assets/icons/icon-180x180.png" sizes="180x180" >
+
+
+  <meta name="theme-color" content="#2196f3">
+  <link rel="manifest" href="manifest.json">
+
+
+  <!-- Performance & Search enginer specific tags -->
   <meta name="Description" content="Create, export and email invoices to customers">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <link rel="manifest" href="/manifest.json">
   <link rel="dns-prefetch">
   <link rel="alternate" hreflang="en-us" />
 <link rel="stylesheet" href="styles.d90c37e9a3bb461b119f.css"></head>
@@ -15,6 +36,7 @@
   <app-root>
     <div id="app-loading">Loading...</div>
   </app-root>
+  <!-- Fallback for a lack of javascript support -->
   <noscript>
     <div class="row">
         <div class="col-md-12 col-xs-12">
@@ -25,5 +47,5 @@
         </div>
     </div>
   </noscript>
-<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.2f4a59095805af02bd79.js"></script><script type="text/javascript" src="main.6d8fa3dec4ff5004cadb.js"></script></body>
+<script type="text/javascript" src="runtime.a66f828dca56eeb90e02.js"></script><script type="text/javascript" src="polyfills.2f4a59095805af02bd79.js"></script><script type="text/javascript" src="main.de16a1127e0e073ca366.js"></script></body>
 </html>

@@ -41,6 +41,7 @@
         "https://dhavalpowar.github.io/assets/icons/icon-80x80.png",
         "https://dhavalpowar.github.io/assets/icons/icon-87x87.png",
         "https://dhavalpowar.github.io/assets/icons/icon-96x96.png",
+        "https://dhavalpowar.github.io/assets/icons/iphoneplus_splash.png",
         "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-1024x768.png",
         "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-1242x2208.png",
         "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-1536x2048.png",
@@ -50,7 +51,14 @@
         "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-640x1136.png",
         "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-640x960.png",
         "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-750x1334.png",
-        "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-768x1024.png"
+        "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-768x1024.png",
+        "https://dhavalpowar.github.io/assets/splash_screens/ipad_splash.png",
+        "https://dhavalpowar.github.io/assets/splash_screens/ipadpro1_splash.png",
+        "https://dhavalpowar.github.io/assets/splash_screens/ipadpro2_splash.png",
+        "https://dhavalpowar.github.io/assets/splash_screens/iphone5_splash.png",
+        "https://dhavalpowar.github.io/assets/splash_screens/iphone6_splash.png",
+        "https://dhavalpowar.github.io/assets/splash_screens/iphoneplus_splash.png",
+        "https://dhavalpowar.github.io/assets/splash_screens/iphonex_splash.png"
       ],
       "patterns": []
     }
@@ -81,6 +89,7 @@
     "https://dhavalpowar.github.io/assets/icons/icon-80x80.png": "991ffc8389bab9fd1a32b82b3d7de7a419736ee0",
     "https://dhavalpowar.github.io/assets/icons/icon-87x87.png": "f0f9ea7131b981facda4e33e9240812de71e0753",
     "https://dhavalpowar.github.io/assets/icons/icon-96x96.png": "f008d62480232d2e26602f75f2b3d903dd9f1c81",
+    "https://dhavalpowar.github.io/assets/icons/iphoneplus_splash.png": "184e8c08eccab7a4cc1511e67ee8b9fd27e9a18e",
     "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-1024x768.png": "c5ff6c920ea8b2c1d37b6eca6945a0ba91c2ca15",
     "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-1242x2208.png": "d1f2a6e0ced24e1154e8e084abdb53a18947a69b",
     "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-1536x2048.png": "9e485a737ed750d09449a9b798d64adbf78e8792",
@@ -91,8 +100,15 @@
     "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-640x960.png": "701072fd1584f7cba67a41827b43dce55c3e3ed3",
     "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-750x1334.png": "fb3bd6ebf3852f0a78766eeac3b86dfe403e0a53",
     "https://dhavalpowar.github.io/assets/splash_screens/ios-splash-768x1024.png": "7b924179709a0b2bd41133360672760931451c15",
+    "https://dhavalpowar.github.io/assets/splash_screens/ipad_splash.png": "73ec078359485fbd0815b971390f57d5419eb55f",
+    "https://dhavalpowar.github.io/assets/splash_screens/ipadpro1_splash.png": "9f71139561dfc6ab115c95af89017bc1881ff6ae",
+    "https://dhavalpowar.github.io/assets/splash_screens/ipadpro2_splash.png": "5aeed91d2d7347cd19cc85a900082957acb1cb18",
+    "https://dhavalpowar.github.io/assets/splash_screens/iphone5_splash.png": "0129bb24f0b271e40fd87eabb3194082d93a2127",
+    "https://dhavalpowar.github.io/assets/splash_screens/iphone6_splash.png": "65f05dcfab826a947b5e6b49a84fb35759bdb129",
+    "https://dhavalpowar.github.io/assets/splash_screens/iphoneplus_splash.png": "184e8c08eccab7a4cc1511e67ee8b9fd27e9a18e",
+    "https://dhavalpowar.github.io/assets/splash_screens/iphonex_splash.png": "a3bcf396f30ea7d4015b52921e6729b00f4d2b41",
     "https://dhavalpowar.github.io/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://dhavalpowar.github.io/index.html": "a82a7bfa1fa26d8f7ce30d29ddce5bb5b286f1d9"
+    "https://dhavalpowar.github.io/index.html": "eb395c4fe9e57354c60c12a755533a57b1c54614"
   },
   "navigationUrls": [
     {
